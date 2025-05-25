@@ -1,2 +1,2 @@
-Const test = "No argument";
-Console.log(test);
+Const argument;
+Console.log(argument);
