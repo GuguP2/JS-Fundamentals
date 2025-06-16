@@ -1,2 +1,2 @@
-Const empty = "No arguments";
-Console.log (empty);
+const empty = "No arguments";
+console.log (empty);

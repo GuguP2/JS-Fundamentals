@@ -1,3 +1,3 @@
-Const see = "C is fun";
-Const pyt = "Python is fun";
-Console.log( see + put + myVar);
+const see = "C is fun";
+const pyt = "Python is fun";
+console.log( see + put + myVar);
